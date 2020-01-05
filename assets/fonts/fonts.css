@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'scalia';
+	src:url('scalia-icons.eot');
+	src:url('scalia-icons.eot?#iefix') format('embedded-opentype'),
+		url('scalia-icons.ttf') format('truetype'),
+		url('scalia-icons.woff') format('woff'),
+		url('scalia-icons.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
